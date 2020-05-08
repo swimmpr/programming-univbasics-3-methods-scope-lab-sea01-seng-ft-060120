@@ -13,8 +13,10 @@ def link
   puts hyrule
 end
 
-def all_phrases
-  
+def all_phrases phrase:, status:, hyrule:
+  puts phrase
+  puts status
+  puts hyrule
 end
 
 all_phrases
