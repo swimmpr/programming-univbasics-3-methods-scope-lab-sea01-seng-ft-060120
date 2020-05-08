@@ -13,7 +13,7 @@ def link
   puts hyrule
 end
 
-def all_phrases mario:, toadstool:, link:
+def all_phrases 
   puts mario
   puts toadstool
   puts link
