@@ -13,10 +13,10 @@ def link
   puts hyrule
 end
 
-def all_phrases phrase:, status:, hyrule:
-  puts phrase
-  puts status
-  puts hyrule
+def all_phrases mario:, toadstool:, link:
+  puts mario
+  puts toadstool
+  puts link
 end
 
-all_phrases phrase: "It's-a me, Mario!\n", status:"Thank you Mario! But Our Princess Is In Another Castle!\n", hyrule: "It's Dangerous To Go Alone! Take This."
+all_phrases mario: "It's-a me, Mario!\n", toadstool:"Thank you Mario! But Our Princess Is In Another Castle!\n", link: "It's Dangerous To Go Alone! Take This."
