@@ -19,4 +19,4 @@ def all_phrases phrase:, status:, hyrule:
   puts hyrule
 end
 
-all_phrases
+all_phrases phrase:
