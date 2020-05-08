@@ -19,4 +19,4 @@ def all_phrases phrase:, status:, hyrule:
   puts hyrule
 end
 
-all_phrases phrase: ""It's-a me, Mario!"\n",
+all_phrases phrase: "It's-a me, Mario!\n", status:"Thank you Mario! But Our Princess Is In Another Castle!\n", hyrule: "It's Dangerous To Go Alone! Take This."
