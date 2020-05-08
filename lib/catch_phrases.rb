@@ -15,6 +15,6 @@ end
 
 def all_phrases
   Mario + Status + Hyrule
-  puts all_phrases
 end
 
+puts all_phrases
