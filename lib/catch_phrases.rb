@@ -14,8 +14,7 @@ def link
 end
 
 def all_phrases
-  puts "It's-a me, Mario!"
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  hyrule = "It's Dangerous To Go Alone! Take This."
-  puts hyrule
+  everything = "It's-a me, Mario!"\n 'Thank You Mario! But Our Princess Is In Another Castle!'\n "It's Dangerous To Go Alone! Take This."
+  puts everything
+end
 
