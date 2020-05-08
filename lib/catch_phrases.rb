@@ -14,7 +14,7 @@ def link
 end
 
 def all_phrases
-  Mario + Status + Hyrule
+  mario + status + hyrule
 end
 
-puts all_phrases
+puts all_phrases(phrase)
