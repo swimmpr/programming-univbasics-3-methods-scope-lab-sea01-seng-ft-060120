@@ -14,6 +14,5 @@ def link
 end
 
 def all_phrases
-  
-  
+  maro + toadstool + link
 end
