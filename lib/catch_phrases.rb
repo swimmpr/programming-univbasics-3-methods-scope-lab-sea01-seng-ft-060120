@@ -14,8 +14,8 @@ def link
 end
 
 def all_phrases
-  phrasese + status + hyrule
-end
-
-puts all_phrases(mario)
+  phrase = "It's-a me, Mario!"
+  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  hyrule = "It's Dangerous To Go Alone! Take This."
+  puts hyrule
 
