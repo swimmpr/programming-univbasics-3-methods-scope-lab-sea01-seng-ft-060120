@@ -14,7 +14,7 @@ def link
 end
 
 def all_phrases
-  mario + toadstool + link
+  phrase + status + hyrule
 end
 
-all_phrases
+puts all_phrases
