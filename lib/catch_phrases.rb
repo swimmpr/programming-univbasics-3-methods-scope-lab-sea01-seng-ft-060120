@@ -19,4 +19,4 @@ def all_phrases
   puts link
 end
 
-all_phrases mario: "It's-a me, Mario!", toadstool:"Thank you Mario! But Our Princess Is In Another Castle!", link: "It's Dangerous To Go Alone! Take This."
+puts all_phrases 
