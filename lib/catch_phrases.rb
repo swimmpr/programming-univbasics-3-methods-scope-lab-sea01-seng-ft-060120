@@ -17,4 +17,6 @@ def all_phrases
   phrase + status + hyrule
 end
 
-puts all_phrases
+all_phrases(mario)
+all_phrases(toadstool)
+all_phrases(hyrule)
