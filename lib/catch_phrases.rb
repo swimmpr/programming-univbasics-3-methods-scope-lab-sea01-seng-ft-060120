@@ -17,6 +17,3 @@ def all_phrases
   phrase + status + hyrule
 end
 
-all_phrases(mario)
-all_phrases(toadstool)
-all_phrases(hyrule)
