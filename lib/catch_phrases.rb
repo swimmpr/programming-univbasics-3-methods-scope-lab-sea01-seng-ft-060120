@@ -18,3 +18,4 @@ def all_phrases
   puts everything
 end
 
+all_phrases
